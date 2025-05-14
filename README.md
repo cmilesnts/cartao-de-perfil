@@ -5,12 +5,12 @@ projeto do curso devemdobro que cria um cartão de perfil com alguns dados
 
 ## Indice 
 
-- <a href="#funcionalidades">funcionalidade do projeto</a>
--  <a href="#layout">layout</a>
--  <a href="#rodar">como rodar este código</a>
--  <a href="#tecnologias">tecnologias utilizadas</a>
--  <a href="#autoras">pessoas autoras</a>
--  <a href="#passos">próximos passos</a>
+
+- [funcionalidades do projeto](#funcionalidades-do-projeto)
+- [layout](#layout)
+- [Como rodar este código](#como-rodar-este-código)
+- [tecnologias utilizadas](#tecnologias-utilizadas)
+- [pessoas autoras](#pessoas-autoras)
 
 
 ## Funcionalidades do projeto 
